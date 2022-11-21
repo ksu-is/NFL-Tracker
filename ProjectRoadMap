@@ -1,11 +1,8 @@
-- [x] Create Repository
-- [x] Create ReadMe & License
-- [x] Create Road Map
-- [x] Looking at other NFL Tracking repositories
-- [ ] Finding ways to keep stats accurate weekly after each game is played
-- [ ] Keeping stats updated
-- [ ] Maybe find a way to do live stats
-- [ ] Create code
+- [x] Create Repository DONE
+- [x] Create ReadMe & License DONE
+- [x] Create Road Map DONE
+- [x] Looking at other NFL Tracking repositories DONE
+- [x] Start to create code DONE
 - [ ] Test and troubleshoot base code
 - [ ] Rework code if neccesary
 - [ ] Test code
