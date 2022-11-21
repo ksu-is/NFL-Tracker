@@ -3,7 +3,9 @@
 - [x] Create Road Map DONE
 - [x] Looking at other NFL Tracking repositories DONE
 - [x] Start to create code DONE
-- [ ] Test and troubleshoot base code
+- [x] Test and troubleshoot base code currently doing
+- [ ] Figure out how to import my links for py to pull information from
+- [ ] Look into other repositories of similar data/ talk with other classmates ask for assistance if needed
 - [ ] Rework code if neccesary
 - [ ] Test code
 - [ ] Test and troubleshoot GUI - Make sure it's running with the code
