@@ -1,4 +1,6 @@
 # NFL-Tracker
-Code to look up players stats during the season to compare with others players across the league
+Trying to make a code to look up players stats during the season to compare with others players across the league
 Using ESPNs website to pull data from 
-Pulling up players game logs throughout the season 
+Pulling up players stats throughout the season
+
+Code does not run, but the idea was there
