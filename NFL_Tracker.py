@@ -14,6 +14,9 @@ class NFLQuarterbackStats(NFLStats):
 class NFLRunningBackStats(NFLStats):
     def keys(): 
         return [ 'id', 'player_id', 'ATT', 'YDS', 'AVG', 'REC', 'YDS', 'AVG', 'TDS', 'LNG', 'FUM', 'LST']
-class NFLWideRecieverStats(NFLStats):
+class NFLRecievingStats(NFLStats):
     def keys(): 
         return ['id', 'player_id', 'REC', 'TGTS', 'YDS', 'AVG', 'TD', 'LNG', 'FD', 'FUM', 'LST']
+class NFLDefensiveStats(NFLStats):  
+    def keys(): 
+        return [ 'id', 'player_id', 'TOT', 'SOLO', 'AST', 'SACK', 'FF', 'FR', 'YDS', 'INT', 'YDS', 'AVG', 'TD', 'LNG', 'PD']
