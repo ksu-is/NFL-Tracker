@@ -4,11 +4,10 @@
 - [x] Looking at other NFL Tracking repositories DONE
 - [x] Start to create code DONE
 - [x] Test and troubleshoot base code currently doing
-- [ ] Figure out how to import my links for py to pull information from
-- [ ] Look into other repositories of similar data/ talk with other classmates ask for assistance if needed
-- [ ] Rework code if neccesary
-- [ ] Test code
-- [ ] Test and troubleshoot GUI - Make sure it's running with the code
-- [ ] Make changes if necessary.
-- [ ] Review & finish code.
-- [ ] Ensure all changes have been committed to the Repository
+- [x] Look into other repositories of similar data/ talk with other classmates ask for assistance if needed DONE
+- [x] Rework code if neccesary 
+- [xx] Test and troubleshoot GUI - Make sure it's running with the code CODE CANT RUN
+- [xx] Figure out how to import my links for py to pull information from CANT FIGURE THIS PART OUT
+- [x] Make changes if necessary.
+- [xx] Review & finish code. CODE CANT RUN
+- [x] Ensure all changes have been committed to the Repository DONE
